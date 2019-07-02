@@ -1,0 +1,12 @@
+{
+    "name": "thiru/contact",
+    "description": "demo",
+    "type": "library",
+    "authors": [
+        {
+            "name": "thiruvicky",
+            "email": "vklthiru2000@gmail.com"
+        }
+    ],
+    "require": {}
+}
