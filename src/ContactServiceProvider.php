@@ -1,6 +1,6 @@
 <?php
 
-namespace Thiru\Contact;
+namespace ThiruChris\Contact;
 
 use Illuminate\Support\ServiceProvider;
 
