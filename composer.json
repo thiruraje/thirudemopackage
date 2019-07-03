@@ -8,5 +8,10 @@
             "email": "vklthiru2000@gmail.com"
         }
     ],
+        "autoload": {
+        "psr-4": {
+            "ThiruChris\\Contact\\": "src/"
+        }
+    },
     "require": {}
 }
